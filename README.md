@@ -9,7 +9,7 @@ This is in **Markdown**. It can also do lists:
 2. like this
 
 háhh, belenyúltam a fantasztikusan informatív rídmídbe trollolololol
-(jó utat haza!)(https://www.youtube.com/watch?v=yKj23z2yRa4)
+[jó utat haza!](https://www.youtube.com/watch?v=yKj23z2yRa4)
 
 bombász formász
 
