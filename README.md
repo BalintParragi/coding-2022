@@ -10,3 +10,5 @@ This is in **Markdown**. It can also do lists:
 
 háhh, belenyúltam a fantasztikusan informatív rídmídbe trollolololol
 jó utat haza!
+
+bombász formász
