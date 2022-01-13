@@ -12,3 +12,5 @@ háhh, belenyúltam a fantasztikusan informatív rídmídbe trollolololol
 jó utat haza!
 
 bombász formász
+
+szóval kitörölnéd :( :( :(
