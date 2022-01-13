@@ -7,3 +7,6 @@ This is in **Markdown**. It can also do lists:
 
 1. numbered items
 2. like this
+
+háhh, belenyúltam a fantasztikusan informatív rídmídbe trollolololol
+jó utat haza!
